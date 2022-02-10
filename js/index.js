@@ -22,35 +22,35 @@ function change() {
 
 var dialogs = {
     value0: function() {
-        texts = "Привет...";
+        texts = "Здравствуйте...";
         timer = 400;
     },
     value1: function() {
-        texts = "Интересно, не правда-ли?";
+        texts = "Иван Андреевич";
         timer = 150;
     },
     value2: function() {
-        texts = "Как ты мог найти эту страницу?";
+        texts = "Как у вас дела?";
         timer = 150;
     },
     value3: function() {
-        texts = "Возможно, ты будешь удивлен.";
+        texts = "У нас хорошо..";
         timer = 150;
     },
     value4: function() {
-        texts = "Но, эту страницу могут найти не все.";
+        texts = "Жаль, что вы не поверили...";
         timer = 150;
     },
     value5: function() {
-        texts = "Это страница...";
+        texts = "Что это мой сайт.";
         timer = 200;
     },
     value6: function() {
-        texts = "НАСТОЯЩЕГО";
+        texts = "Я готов...";
         timer = 400;
     },
     value7: function() {
-        texts = "ХУЕСОСА";
+        texts = "К ПОЛУЧЕНИЮ 5-ки";
         timer = 400;
     }
 };
