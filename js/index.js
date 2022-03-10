@@ -23,35 +23,35 @@ function change() {
 var dialogs = {
     value0: function() {
         texts = "Камиля Валеева...";
-        timer = 400;
+        timer = 300;
     },
     value1: function() {
         texts = "Я вижу столько тепла в твоих глазах.";
-        timer = 150;
+        timer = 100;
     },
     value2: function() {
         texts = "Я вижу столько тепла в твоих глазах.";
-        timer = 150;
+        timer = 100;
     },
     value3: function() {
         texts = "Я очень сильно ценю тебя.";
-        timer = 150;
+        timer = 100;
     },
     value4: function() {
         texts = "Твой голос очень мелодичный и волнующий.";
-        timer = 150;
+        timer = 100;
     },
     value5: function() {
         texts = "С тобой мне всегда очень комфортно.";
-        timer = 150;
+        timer = 100;
     },
     value6: function() {
         texts = "У меня мурашки от тебя.";
-        timer = 150;
+        timer = 100;
     },
     value7: function() {
         texts = "Я благодарен за то, что ты есть.";
-        timer = 200;
+        timer = 150;
     }
 };
 
