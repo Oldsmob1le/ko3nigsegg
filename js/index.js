@@ -22,36 +22,36 @@ function change() {
 
 var dialogs = {
     value0: function() {
-        texts = "Здравствуйте...";
+        texts = "Камиля Валеева...";
         timer = 400;
     },
     value1: function() {
-        texts = "Иван Андреевич";
+        texts = "Я вижу столько тепла в твоих глазах.";
         timer = 150;
     },
     value2: function() {
-        texts = "Как у вас дела?";
+        texts = "Я вижу столько тепла в твоих глазах.";
         timer = 150;
     },
     value3: function() {
-        texts = "У нас хорошо..";
+        texts = "Я очень сильно ценю тебя.";
         timer = 150;
     },
     value4: function() {
-        texts = "Жаль, что вы не поверили...";
+        texts = "Твой голос очень мелодичный и волнующий.";
         timer = 150;
     },
     value5: function() {
-        texts = "Что это мой сайт.";
-        timer = 200;
+        texts = "С тобой мне всегда очень комфортно.";
+        timer = 150;
     },
     value6: function() {
-        texts = "Я готов...";
-        timer = 400;
+        texts = "У меня мурашки от тебя.";
+        timer = 150;
     },
     value7: function() {
-        texts = "К ПОЛУЧЕНИЮ 5-ки";
-        timer = 400;
+        texts = "Я благодарен за то, что ты есть.";
+        timer = 200;
     }
 };
 
